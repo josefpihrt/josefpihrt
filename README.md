@@ -1,4 +1,6 @@
-### Hello World!!! 👋
+```cs
+Console.WriteLine("Hello, World!");
+```
 
 <!--
 **JosefPihrt/JosefPihrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
